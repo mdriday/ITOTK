@@ -1,0 +1,397 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?ahjuc2');
+  src:  url('fonts/icomoon.eot?ahjuc2#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ahjuc2') format('truetype'),
+    url('fonts/icomoon.woff?ahjuc2') format('woff'),
+    url('fonts/icomoon.svg?ahjuc2#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-guarantee:before {
+  content: "\e963";
+}
+.icon-speedometer:before {
+  content: "\e964";
+}
+.icon-fast:before {
+  content: "\e965";
+}
+.icon-reliability:before {
+  content: "\e966";
+}
+.icon-user-experience:before {
+  content: "\e967";
+}
+.icon-play-button:before {
+  content: "\e90b";
+}
+.icon-play-button-1:before {
+  content: "\e90c";
+}
+.icon-play:before {
+  content: "\e90d";
+}
+.icon-play-button-2:before {
+  content: "\e90e";
+}
+.icon-soccer-field:before {
+  content: "\e90f";
+}
+.icon-play-button-3:before {
+  content: "\e910";
+}
+.icon-play-1:before {
+  content: "\e911";
+}
+.icon-play-button-4:before {
+  content: "\e912";
+}
+.icon-play-button-5:before {
+  content: "\e913";
+}
+.icon-connected:before {
+  content: "\e914";
+}
+.icon-play-button-6:before {
+  content: "\e915";
+}
+.icon-play-2:before {
+  content: "\e916";
+}
+.icon-play-3:before {
+  content: "\e917";
+}
+.icon-play-button-7:before {
+  content: "\e918";
+}
+.icon-adwords:before {
+  content: "\e968";
+}
+.icon-loan-2:before {
+  content: "\e919";
+}
+.icon-money:before {
+  content: "\e91a";
+}
+.icon-loan-3:before {
+  content: "\e91b";
+}
+.icon-loan-4:before {
+  content: "\e91c";
+}
+.icon-loan-5:before {
+  content: "\e91d";
+}
+.icon-debt:before {
+  content: "\e91e";
+}
+.icon-investment:before {
+  content: "\e91f";
+}
+.icon-loan-6:before {
+  content: "\e920";
+}
+.icon-give-money:before {
+  content: "\e921";
+}
+.icon-loan-7:before {
+  content: "\e922";
+}
+.icon-loan-8:before {
+  content: "\e923";
+}
+.icon-loan-9:before {
+  content: "\e924";
+}
+.icon-loan-10:before {
+  content: "\e925";
+}
+.icon-debt-1:before {
+  content: "\e926";
+}
+.icon-loan-11:before {
+  content: "\e927";
+}
+.icon-rejected:before {
+  content: "\e928";
+}
+.icon-loan-12:before {
+  content: "\e929";
+}
+.icon-debt-2:before {
+  content: "\e92a";
+}
+.icon-contract:before {
+  content: "\e92b";
+}
+.icon-loan-13:before {
+  content: "\e92c";
+}
+.icon-rate:before {
+  content: "\e92d";
+}
+.icon-mortgage-loan:before {
+  content: "\e92e";
+}
+.icon-car-loan:before {
+  content: "\e92f";
+}
+.icon-loan-14 .path1:before {
+  content: "\e930";
+  color: rgb(190, 217, 253);
+}
+.icon-loan-14 .path2:before {
+  content: "\e931";
+  margin-left: -1em;
+  color: rgb(158, 200, 252);
+}
+.icon-loan-14 .path3:before {
+  content: "\e932";
+  margin-left: -1em;
+  color: rgb(247, 249, 250);
+}
+.icon-loan-14 .path4:before {
+  content: "\e933";
+  margin-left: -1em;
+  color: rgb(158, 200, 252);
+}
+.icon-loan-14 .path5:before {
+  content: "\e934";
+  margin-left: -1em;
+  color: rgb(233, 237, 241);
+}
+.icon-loan-14 .path6:before {
+  content: "\e935";
+  margin-left: -1em;
+  color: rgb(247, 249, 250);
+}
+.icon-loan-14 .path7:before {
+  content: "\e936";
+  margin-left: -1em;
+  color: rgb(179, 229, 159);
+}
+.icon-loan-14 .path8:before {
+  content: "\e937";
+  margin-left: -1em;
+  color: rgb(149, 214, 164);
+}
+.icon-loan-14 .path9:before {
+  content: "\e938";
+  margin-left: -1em;
+  color: rgb(233, 237, 241);
+}
+.icon-loan-14 .path10:before {
+  content: "\e939";
+  margin-left: -1em;
+  color: rgb(179, 229, 159);
+}
+.icon-loan-14 .path11:before {
+  content: "\e93a";
+  margin-left: -1em;
+  color: rgb(149, 214, 164);
+}
+.icon-loan-14 .path12:before {
+  content: "\e93b";
+  margin-left: -1em;
+  color: rgb(247, 249, 250);
+}
+.icon-loan-14 .path13:before {
+  content: "\e93c";
+  margin-left: -1em;
+  color: rgb(233, 237, 241);
+}
+.icon-loan-14 .path14:before {
+  content: "\e93d";
+  margin-left: -1em;
+  color: rgb(38, 38, 28);
+}
+.icon-loan-14 .path15:before {
+  content: "\e93e";
+  margin-left: -1em;
+  color: rgb(38, 38, 28);
+}
+.icon-loan-14 .path16:before {
+  content: "\e93f";
+  margin-left: -1em;
+  color: rgb(38, 38, 28);
+}
+.icon-loan-14 .path17:before {
+  content: "\e940";
+  margin-left: -1em;
+  color: rgb(38, 38, 28);
+}
+.icon-loan-14 .path18:before {
+  content: "\e941";
+  margin-left: -1em;
+  color: rgb(38, 38, 28);
+}
+.icon-loan-14 .path19:before {
+  content: "\e942";
+  margin-left: -1em;
+  color: rgb(38, 38, 28);
+}
+.icon-loan-14 .path20:before {
+  content: "\e943";
+  margin-left: -1em;
+  color: rgb(38, 38, 28);
+}
+.icon-loan-14 .path21:before {
+  content: "\e944";
+  margin-left: -1em;
+  color: rgb(38, 38, 28);
+}
+.icon-loan-14 .path22:before {
+  content: "\e945";
+  margin-left: -1em;
+  color: rgb(38, 38, 28);
+}
+.icon-loan-14 .path23:before {
+  content: "\e946";
+  margin-left: -1em;
+  color: rgb(38, 38, 28);
+}
+.icon-loan-14 .path24:before {
+  content: "\e947";
+  margin-left: -1em;
+  color: rgb(38, 38, 28);
+}
+.icon-loan-14 .path25:before {
+  content: "\e948";
+  margin-left: -1em;
+  color: rgb(38, 38, 28);
+}
+.icon-loan-14 .path26:before {
+  content: "\e949";
+  margin-left: -1em;
+  color: rgb(38, 38, 28);
+}
+.icon-loan-14 .path27:before {
+  content: "\e94a";
+  margin-left: -1em;
+  color: rgb(38, 38, 28);
+}
+.icon-loan-14 .path28:before {
+  content: "\e94b";
+  margin-left: -1em;
+  color: rgb(38, 38, 28);
+}
+.icon-tax:before {
+  content: "\e94c";
+}
+.icon-loan-15:before {
+  content: "\e94d";
+}
+.icon-mortgage:before {
+  content: "\e94e";
+}
+.icon-car-loan-1:before {
+  content: "\e94f";
+}
+.icon-loan-16:before {
+  content: "\e950";
+}
+.icon-car-loan-2:before {
+  content: "\e951";
+}
+.icon-money-bag:before {
+  content: "\e952";
+}
+.icon-loan-17:before {
+  content: "\e953";
+}
+.icon-loan-18:before {
+  content: "\e954";
+}
+.icon-approved:before {
+  content: "\e955";
+}
+.icon-mortgage-loan-1:before {
+  content: "\e956";
+}
+.icon-loan-19:before {
+  content: "\e957";
+}
+.icon-scholarship:before {
+  content: "\e958";
+}
+.icon-loan-20:before {
+  content: "\e959";
+}
+.icon-loan-21:before {
+  content: "\e95a";
+}
+.icon-secured-loan:before {
+  content: "\e95b";
+}
+.icon-loan-22:before {
+  content: "\e95c";
+}
+.icon-bank:before {
+  content: "\e95d";
+}
+.icon-loan-23:before {
+  content: "\e95e";
+}
+.icon-loan-24:before {
+  content: "\e95f";
+}
+.icon-loan-to-value:before {
+  content: "\e960";
+}
+.icon-loan-25:before {
+  content: "\e961";
+}
+.icon-loan-26:before {
+  content: "\e962";
+}
+.icon-team-work:before {
+  content: "\e90a";
+}
+.icon-personal:before {
+  content: "\e900";
+}
+.icon-agriculture:before {
+  content: "\e901";
+}
+.icon-handshake:before {
+  content: "\e902";
+}
+.icon-stats:before {
+  content: "\e903";
+}
+.icon-education:before {
+  content: "\e904";
+}
+.icon-loan:before {
+  content: "\e905";
+}
+.icon-loan-1:before {
+  content: "\e906";
+}
+.icon-light-bulb:before {
+  content: "\e907";
+}
+.icon-genius:before {
+  content: "\e908";
+}
+.icon-key:before {
+  content: "\e909";
+}
